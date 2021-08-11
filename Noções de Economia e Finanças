@@ -53,3 +53,21 @@ Taxa Selic Over
 Taxa DI
 É a taxa dos CDI (Certificados do depósitos Interbancários). É a Cetip Over. É um dos principais indexadores do mercado de renda fixa.
 Normalmente ele é 0,01% da Selic Over.
+
+Politica Cambial -> Ação do BACEN para controlar a oferta e demanda do dolar na economia. O objetivo é ter uma paridade equilibrada entre o real e o dolar.
+Se BRL 1 = USD 1, temos uma situação equilibrada na qual o dolar está barato. Neste cenário é mais vantajoso importar serviços e produtos, assim, desvalorizando os serviços e 
+produtos nacionais. Pode gerar uma onda de desemprego.
+Dolar muito barato -> Podee gerar desemprego e redução na arrecadação.
+
+Se BRL 5 = USD 1, temos uma situação no qual o dolar está caro. Nessa situação temos uma valorização dos produtos e serviços nacionais no mercado internacional. É mais vantajoso
+pro produtor vender seu produto internacionalmente com o dolar caro do que nacionalmente. Isso gera uma escassez de produtos, resultando numa alta dos preços dos poucos produtos
+que são vendidos aqui. Além disso, a divida das empresas e do Estado internacionalmente aumenta, pois está em dolar.
+Dolar caro -> Gera alta da inflação e necessidade de aumento dos impostos.
+
+Um jeito que o BACEN tem de controlar esssa paridade entre dolar e real é de comprar ou vender os dolares que o Estado tem em sua reserva.Isto é, se o mercado demanda por dolares
+(querendo comprar dolares) num nível superior ao que seria capaz de ofertar o BACEN injeta dolares (vende dolares) para evitar que o real se valorize demasiadamente.
+Em contra partida se o mercado estiver demandando por real (querendo comprar real), o BACEN retira dolares da economia (compra dolares) para evitar que o real se desvalorize
+demasiadamente.
+
+Essa ação do BACEN é conhecida como Política Cambial Flutuante, pois a compra ou venda de dolares pelo BACEN se dá de acordo com a necessidade do mercado.
+É conhecida como Política Cambial Flutuante Suja, pois o BACEN pode manipular.
